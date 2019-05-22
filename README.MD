@@ -13,6 +13,9 @@
 12 - npm install react-native-camera
 13 - npm install react-native-permissions
 14 - Configurar troca-troca/android/local.properties para a home do android studio
+15 - cd troca-troca/ios
+16 - pod install
+17 - Abrir TrocaTroca.xcworkspace no XCODE e executar projeto
 
 ## Iniciando JSON server
 

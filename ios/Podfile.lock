@@ -69,13 +69,13 @@ PODS:
   - nanopb/encode (0.3.901)
   - React (0.58.6):
     - React/Core (= 0.58.6)
-  - react-native-camera (2.1.1):
+  - react-native-camera (2.9.0):
     - React
-    - react-native-camera/RCT (= 2.1.1)
-    - react-native-camera/RN (= 2.1.1)
-  - react-native-camera/RCT (2.1.1):
+    - react-native-camera/RCT (= 2.9.0)
+    - react-native-camera/RN (= 2.9.0)
+  - react-native-camera/RCT (2.9.0):
     - React
-  - react-native-camera/RN (2.1.1):
+  - react-native-camera/RN (2.9.0):
     - React
   - React/Core (0.58.6):
     - yoga (= 0.58.6.React)
@@ -126,7 +126,7 @@ PODS:
     - React/RCTBlob
   - ReactNativePermissions (1.1.1):
     - React
-  - RNGestureHandler (1.1.0):
+  - RNGestureHandler (1.2.1):
     - React
   - RNVectorIcons (6.4.2):
     - React
@@ -212,12 +212,12 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
   React: 130b87b2d5e2baac646954282cab87be986d98fc
-  react-native-camera: 44467cda8307a68f0a1669a84dae0b1bb936e736
+  react-native-camera: 437507c722cb682b8fa38513c177a304515a13d4
   ReactNativePermissions: 2e324bb3baf12702e3ec27f76c8ae1158fa69fc6
-  RNGestureHandler: b65d391f4f570178d657b99a16ec99d09b8656b0
+  RNGestureHandler: aea90f0ad8e35fec23438db6fc3ad79be58bb734
   RNVectorIcons: 6607bd3a30291d0edb56f9bbe7ae411ee2b928b0
   yoga: 32d7ef1081951e9a35a4c72a7be797598b138a48
 
 PODFILE CHECKSUM: ecb92cdd95c605f3c07c853917c2ac0f689e2da3
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.6.2
