@@ -29,7 +29,6 @@ export const styles = StyleSheet.create({
     textDefault: {
         color: "white",
         fontSize: 16,
-        fontFamily: 'Ubuntu-M'
     },
     signInForm: {
         flex: 4,
@@ -42,7 +41,6 @@ export const styles = StyleSheet.create({
         marginTop: 10,
         paddingHorizontal: 15,
         fontSize: 18,
-        fontFamily: 'Ubuntu-M',
         color: 'white',
         borderRadius: 5,
         height: 50
@@ -59,7 +57,6 @@ export const styles = StyleSheet.create({
     textButton: {
         paddingHorizontal: 10,
         fontSize: 18,
-        fontFamily: 'Ubuntu-M',
         color: 'white'
     },
     footer: {

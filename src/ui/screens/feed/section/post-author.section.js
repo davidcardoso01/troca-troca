@@ -44,8 +44,8 @@ export class PostAuthor extends Component {
                 </LinearGradient>
             
                 <View style={{ flex: 4, justifyContent: 'flex-start', paddingLeft: 10 }}>
-                    <Text style={{ fontSize: 18, fontFamily: 'Ubuntu-M', color: '#979797' }} >{this.state.autor.nome}</Text>
-                    <Text style={{ fontSize: 14, fontFamily: 'Ubuntu-R', color: '#979797' }}>{this.props.local}</Text>
+                    <Text style={{ fontSize: 18, color: '#979797' }} >{this.state.autor.nome}</Text>
+                    <Text style={{ fontSize: 14, color: '#979797' }}>{this.props.local}</Text>
                 </View>
 
             </View>

@@ -28,7 +28,6 @@ const permissionRequest = StyleSheet.create({
         paddingHorizontal: 20
     },
     title: {
-        fontFamily: 'Ubuntu',
         fontSize: 20,
         textAlign: 'center'
     },
@@ -38,7 +37,6 @@ const permissionRequest = StyleSheet.create({
         marginTop: 10
     },
     text: {
-        fontFamily: 'Ubuntu',
         fontSize: 15,
         color: 'white'
     }

@@ -19,7 +19,7 @@ export class CoPicker extends Component {
                 <Picker.Item 
                     label={ `-- ${this.props.labelTodos} --` } 
                     value={null} 
-                    style={{ color: 'white', fontFamily: 'Ubuntu'}} />
+                    style={{ color: 'white'}} />
 
                 {
                     this.props.valores.map(this._renderPickers)

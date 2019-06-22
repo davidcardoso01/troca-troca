@@ -16,7 +16,6 @@ export const styles = StyleSheet.create({
         flex: 1, 
         //backgroundColor: 'gray',
         fontSize: 18,
-        fontFamily: 'Ubuntu',
         color: 'white',
         borderBottomColor: 'white',
         borderBottomWidth: 2,
@@ -35,14 +34,12 @@ export const styles = StyleSheet.create({
     textButton: {
         color: 'white', 
         fontSize: 30,
-        fontFamily: 'Ubuntu'
     },
     categoriaPicker: {
         height: 50,
         flex: 1,
         backgroundColor: '#05C3DE',
         color: 'white',
-        fontFamily: 'Ubuntu',
         paddingLeft: 20
     }
 })

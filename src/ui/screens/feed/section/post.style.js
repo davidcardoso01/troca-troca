@@ -54,12 +54,10 @@ export default StyleSheet.create({
     postValue: {
         fontSize: 20,
         color: 'white',
-        fontFamily: 'Ubuntu-M',
         marginTop: 5
     },
     descriptionText: { 
         fontSize: 18, 
-        fontFamily: 'Ubuntu-M', 
         color: '#979797' 
     },
     authorContainer: { 

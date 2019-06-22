@@ -60,7 +60,6 @@ export default StyleSheet.create({
     inputProfile: {
         marginTop: 15,
         fontSize: 18,
-        fontFamily: 'Ubuntu-M',
         color: 'white',
         borderBottomColor: 'white',
         borderBottomWidth: 1,
@@ -78,7 +77,6 @@ export default StyleSheet.create({
     textButton: {
         paddingHorizontal: 10,
         fontSize: 18,
-        fontFamily: 'Ubuntu-M',
         color: '#05C3DE'
     }
 });

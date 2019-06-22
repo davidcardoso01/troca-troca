@@ -12,7 +12,6 @@ export default StyleSheet.create({
         height: 50,
         backgroundColor: '#05C3DE',
         color: 'white',
-        fontFamily: 'Ubuntu',
         paddingLeft: 20
     }
 });

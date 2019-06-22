@@ -42,15 +42,7 @@
 		85AC7487225957C000CE0B9A /* MyIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7222259569F00A3AB73 /* MyIcons.ttf */; };
 		85AC7488225957E600CE0B9A /* MyIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7222259569F00A3AB73 /* MyIcons.ttf */; };
 		85AC7489225957EA00CE0B9A /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7232259569F00A3AB73 /* Lato-Regular.ttf */; };
-		85AC748A225957ED00CE0B9A /* Ubuntu-B.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7242259569F00A3AB73 /* Ubuntu-B.ttf */; };
-		85AC748B225957F000CE0B9A /* Ubuntu-L.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB71F2259569F00A3AB73 /* Ubuntu-L.ttf */; };
-		85AC748C225957F300CE0B9A /* Ubuntu-M.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7202259569F00A3AB73 /* Ubuntu-M.ttf */; };
-		85AC748D225957F600CE0B9A /* Ubuntu-R.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7212259569F00A3AB73 /* Ubuntu-R.ttf */; };
-		85DBB7252259569F00A3AB73 /* Ubuntu-L.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB71F2259569F00A3AB73 /* Ubuntu-L.ttf */; };
-		85DBB7262259569F00A3AB73 /* Ubuntu-M.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7202259569F00A3AB73 /* Ubuntu-M.ttf */; };
-		85DBB7272259569F00A3AB73 /* Ubuntu-R.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7212259569F00A3AB73 /* Ubuntu-R.ttf */; };
 		85DBB7292259569F00A3AB73 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7232259569F00A3AB73 /* Lato-Regular.ttf */; };
-		85DBB72A2259569F00A3AB73 /* Ubuntu-B.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 85DBB7242259569F00A3AB73 /* Ubuntu-B.ttf */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		E23D45431087417F8D23C903 /* libRNFirebase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E3AD689099B84E7FB3BF3B55 /* libRNFirebase.a */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
@@ -371,12 +363,8 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		85524AB1225CF05000A05FDE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		85DBB71F2259569F00A3AB73 /* Ubuntu-L.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-L.ttf"; sourceTree = "<group>"; };
-		85DBB7202259569F00A3AB73 /* Ubuntu-M.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-M.ttf"; sourceTree = "<group>"; };
-		85DBB7212259569F00A3AB73 /* Ubuntu-R.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-R.ttf"; sourceTree = "<group>"; };
 		85DBB7222259569F00A3AB73 /* MyIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MyIcons.ttf; sourceTree = "<group>"; };
 		85DBB7232259569F00A3AB73 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
-		85DBB7242259569F00A3AB73 /* Ubuntu-B.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-B.ttf"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
 		E3AD689099B84E7FB3BF3B55 /* libRNFirebase.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNFirebase.a; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -674,10 +662,6 @@
 			children = (
 				85DBB7232259569F00A3AB73 /* Lato-Regular.ttf */,
 				85DBB7222259569F00A3AB73 /* MyIcons.ttf */,
-				85DBB7242259569F00A3AB73 /* Ubuntu-B.ttf */,
-				85DBB71F2259569F00A3AB73 /* Ubuntu-L.ttf */,
-				85DBB7202259569F00A3AB73 /* Ubuntu-M.ttf */,
-				85DBB7212259569F00A3AB73 /* Ubuntu-R.ttf */,
 			);
 			path = fonts;
 			sourceTree = "<group>";
@@ -1145,10 +1129,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85AC748D225957F600CE0B9A /* Ubuntu-R.ttf in Resources */,
-				85AC748B225957F000CE0B9A /* Ubuntu-L.ttf in Resources */,
-				85AC748C225957F300CE0B9A /* Ubuntu-M.ttf in Resources */,
-				85AC748A225957ED00CE0B9A /* Ubuntu-B.ttf in Resources */,
 				85AC7488225957E600CE0B9A /* MyIcons.ttf in Resources */,
 				85AC7489225957EA00CE0B9A /* Lato-Regular.ttf in Resources */,
 			);
@@ -1158,11 +1138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85DBB7252259569F00A3AB73 /* Ubuntu-L.ttf in Resources */,
-				85DBB72A2259569F00A3AB73 /* Ubuntu-B.ttf in Resources */,
 				85524AB2225CF05100A05FDE /* GoogleService-Info.plist in Resources */,
-				85DBB7272259569F00A3AB73 /* Ubuntu-R.ttf in Resources */,
-				85DBB7262259569F00A3AB73 /* Ubuntu-M.ttf in Resources */,
 				85DBB7292259569F00A3AB73 /* Lato-Regular.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
