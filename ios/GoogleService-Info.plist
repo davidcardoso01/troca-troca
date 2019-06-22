@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>364318121578-n99914ioq5pjmvbg3h1g4708do7m4uf0.apps.googleusercontent.com</string>
+	<string>32382800266-i4746bhklbm47tg01mbe5snagc2uvmj1.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.364318121578-n99914ioq5pjmvbg3h1g4708do7m4uf0</string>
+	<string>com.googleusercontent.apps.32382800266-i4746bhklbm47tg01mbe5snagc2uvmj1</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDgTHAMNSJp6VipFxhvYwzDmBOXtNQozDI</string>
+	<string>AIzaSyC3Wl2QgXzRC8cl5q_Fcbvd7dAovir8tEw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>364318121578</string>
+	<string>32382800266</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.reactjs.native.example.TrocaTroca</string>
+	<string>com.davidcardoso01.trocatroca</string>
 	<key>PROJECT_ID</key>
-	<string>troca-troca-cfe5f</string>
+	<string>troca-troca-be99c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>troca-troca-cfe5f.appspot.com</string>
+	<string>troca-troca-be99c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:364318121578:ios:03561d4c1d4b7266</string>
+	<string>1:32382800266:ios:bb974067e9c929bb</string>
 	<key>DATABASE_URL</key>
-	<string>https://troca-troca-cfe5f.firebaseio.com</string>
+	<string>https://troca-troca-be99c.firebaseio.com</string>
 </dict>
 </plist>

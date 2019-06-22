@@ -26,13 +26,15 @@
 
 13 - npm install react-native-permissions
 
-14 - Configurar troca-troca/android/local.properties para a home do android studio
+14 - npm install react-native-fs
 
-15 - cd troca-troca/ios
+15 - Configurar troca-troca/android/local.properties para a home do android studio
 
-16 - pod install
+16 - cd troca-troca/ios
 
-17 - Abrir TrocaTroca.xcworkspace no XCODE e executar projeto
+17 - pod install
+
+18 - Abrir TrocaTroca.xcworkspace no XCODE e executar projeto
 
 ```
 
